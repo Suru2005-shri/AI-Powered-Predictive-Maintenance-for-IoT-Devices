@@ -1,0 +1,16 @@
+AI Predictive Maintenance — Model Results
+=============================================
+Accuracy  : 0.9696
+F1 Score  : 0.8885
+ROC-AUC   : 0.9944
+CV ROC-AUC: 0.9941 ± 0.0005
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     Healthy       0.99      0.98      0.98      4110
+     Failure       0.85      0.93      0.89       620
+
+    accuracy                           0.97      4730
+   macro avg       0.92      0.95      0.94      4730
+weighted avg       0.97      0.97      0.97      4730
